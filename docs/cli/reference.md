@@ -69,7 +69,7 @@ $ chor version
 ### chor application
 
 `application` command is used to manage applications created with the Choreo platform. 
-Available sub commands include [create](#chor-application-create) and [ls](#chor-application-ls).
+Available sub commands include [create](#chor-application-create) and [list](#chor-application-list).
 
 #### Synopsis
 
